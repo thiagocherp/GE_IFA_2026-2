@@ -15,3 +15,22 @@ h1 {
     margin-top: 45px;
     margin-bottom: 15px;
 }
+
+h2 {
+    color: rgb(13, 187, 50);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: rgb(13, 187, 50);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+
