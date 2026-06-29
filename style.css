@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: rgb(13, 187, 50);
+    color: rgb(4, 4, 152);
     font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
@@ -17,9 +17,9 @@ h1 {
 }
 
 h2 {
-    color: rgb(13, 187, 50);
-    font-size: 50px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(4, 4, 152);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin-top: 45px;
     margin-bottom: 15px;
@@ -36,5 +36,15 @@ h3 {
 
 
 p {
+    color: rgb(3, 3, 26);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
     text-align: justify;
+
+}
+
+img{
+    width= 80%;
+    max-width: 400px;
+    height: 300px
 }
