@@ -1,6 +1,6 @@
-body {
-    background-color: rgb(5, 39, 15);
-    font-family: monospace;
-    color: blue;
+body {      
+    background-color: rgb(94, 158, 236);
+    font-family:"Bitcount Single", system-ui;
+    color: rgb(19, 3, 3);
     font-size: 18px;
 }
